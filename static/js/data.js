@@ -1,6 +1,6 @@
 const data = [
     {
-        title: 'вопрос 1',
+        title: 'вопрос 1 123',
         id: 1,
         description: 'пояснение 1',
         path: [
